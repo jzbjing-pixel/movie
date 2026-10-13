@@ -1,0 +1,8 @@
+{
+  "id": "rill.movie",
+  "version": "0.1.6",
+  "date": "2026-10-13",
+  "sha256": "20e514f149265a79d8ffd0b816fb708071aa2e94b8821cfa173aca6b5aafafe3",
+  "requiresHost": "Rill 2026-10-13 development host or later with unified binding fields, navigation modules and thumbnail cache",
+  "previous": "0.1.5"
+}
